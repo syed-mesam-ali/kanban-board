@@ -1,0 +1,18 @@
+.board {
+  border: 3px solid white;
+  background-color: #fff;
+  width: 90%;
+  color: #000;
+  margin: 25px;
+}
+.boardHeader {
+  text-align: center;
+  background-color: gold;
+}
+.boardBody {
+  height: 70vh;
+  overflow-y: auto;
+}
+.t-a-c {
+  text-align: center;
+}

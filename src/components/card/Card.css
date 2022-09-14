@@ -1,0 +1,27 @@
+.card {
+  border: 3px solid green;
+  width: 90%;
+  margin: 15px;
+  color: #fff;
+  padding: 10px;
+  min-height: 15vh;
+  position: relative;
+  background-color: #000;
+}
+.cardButton {
+  position: absolute;
+  bottom: 10px;
+  width: 90%;
+}
+.nextButton {
+  float: right;
+}
+.backButton {
+  float: left;
+}
+.cardTitle {
+  text-align: center;
+}
+.deleteButton {
+  margin-left: 20px;
+}
